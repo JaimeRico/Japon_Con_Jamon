@@ -1,16 +1,11 @@
 package com.example.japon_con_jamon.activitys
 
 import android.os.Bundle
-import android.renderscript.ScriptGroup.Binding
 import android.speech.tts.TextToSpeech
 import android.widget.Button
 import android.widget.TextView
-import androidx.activity.enableEdgeToEdge
 import androidx.appcompat.app.AppCompatActivity
-import androidx.core.view.ViewCompat
-import androidx.core.view.WindowInsetsCompat
 import com.example.japon_con_jamon.R
-import com.example.japon_con_jamon.databinding.ActivityMainBinding
 import java.util.Locale
 
 class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener{
