@@ -1,0 +1,182 @@
+{
+  "ciudades": [
+    {
+      "indice": 1,
+      "nombre": "TOKYO",
+      "puntos_de_interes": [
+        {
+          "indice": 1,
+          "nombre": "Templo Sensō-ji (Asakusa Kannon)",
+          "descripcion": ""
+        },
+        {
+          "indice": 2,
+          "nombre": "Santuario Meiji Jingū",
+          "descripcion": ""
+        }
+      ]
+    },
+    {
+      "indice": 2,
+      "nombre": "KAMAKURA",
+      "puntos_de_interes": [
+        {
+          "indice": 1,
+          "nombre": "Templo Hase-dera",
+          "descripcion": ""
+        },
+        {
+          "indice": 2,
+          "nombre": "Templo Kotoku-in: Daibutsu, el Gran Buda de Kamakura",
+          "descripcion": ""
+        },
+        {
+          "indice": 3,
+          "nombre": "Templo Hōkoku-ji",
+          "descripcion": ""
+        },
+        {
+          "indice": 4,
+          "nombre": "Santuario Tsuruoka Hachimangu",
+          "descripcion": ""
+        }
+      ]
+    },
+    {
+      "indice": 3,
+      "nombre": "RUTA NAKASENDO",
+      "descripcion": "texto"
+    },
+    {
+      "indice": 4,
+      "nombre": "NAGOYA",
+      "puntos_de_interes": [
+        {
+          "indice": 1,
+          "nombre": "Castillo de Nagoya (Nagoya-jō)",
+          "descripcion": ""
+        },
+        {
+          "indice": 2,
+          "nombre": "Santuario Atsuta Jingū",
+          "descripcion": ""
+        }
+      ]
+    },
+    {
+      "indice": 5,
+      "nombre": "SHIRAKAWA-GO",
+      "descripcion": "texto"
+    },
+    {
+      "indice": 6,
+      "nombre": "TAKAYAMA",
+      "puntos_de_interes": [
+        {
+          "indice": 1,
+          "nombre": "Templo Hida Kokubun-ji",
+          "descripcion": ""
+        },
+        {
+          "indice": 2,
+          "nombre": "Takayama Jin'ya (Oficina Gobierno Tokugawa)",
+          "descripcion": ""
+        },
+        {
+          "indice": 3,
+          "nombre": "Santuario Sakurayama Hachimangu",
+          "descripcion": ""
+        }
+      ]
+    },
+    {
+      "indice": 7,
+      "nombre": "KANAZAWA",
+      "puntos_de_interes": [
+        {
+          "indice": 1,
+          "nombre": "Jardines Kenroku-en",
+          "descripcion": ""
+        },
+        {
+          "indice": 2,
+          "nombre": "Castillo de Kanazawa y Jardín Gyokusen’inmaru",
+          "descripcion": ""
+        },
+        {
+          "indice": 3,
+          "nombre": "Nagamachi: El Distrito Samurai",
+          "descripcion": ""
+        },
+        {
+          "indice": 4,
+          "nombre": "Higashi Chaya y Nishi Chaya: Los Distritos de Geishas",
+          "descripcion": ""
+        }
+      ]
+    },
+    {
+      "indice": 8,
+      "nombre": "KYOTO",
+      "puntos_de_interes": [
+        {
+          "indice": 1,
+          "nombre": "Santuario Fushimi Inari Taisha",
+          "descripcion": ""
+        },
+        {
+          "indice": 2,
+          "nombre": "Templo Kiyomizu-dera",
+          "descripcion": ""
+        },
+        {
+          "indice": 3,
+          "nombre": "Santuario Yasaka Jinja",
+          "descripcion": ""
+        },
+        {
+          "indice": 4,
+          "nombre": "Templo Chion-in",
+          "descripcion": ""
+        },
+        {
+          "indice": 5,
+          "nombre": "Templo Kinkaku-ji: El Pabellón Dorado",
+          "descripcion": ""
+        },
+        {
+          "indice": 6,
+          "nombre": "Templo Ryōan-ji",
+          "descripcion": ""
+        },
+        {
+          "indice": 7,
+          "nombre": "Templo Otagi Nenbutsu-ji",
+          "descripcion": ""
+        },
+        {
+          "indice": 8,
+          "nombre": "Templo Adashino Nenbutsu-ji",
+          "descripcion": ""
+        },
+        {
+          "indice": 9,
+          "nombre": "Templo Tenryū-ji",
+          "descripcion": ""
+        }
+      ]
+    },
+    {
+      "indice": 9,
+      "nombre": "UJI",
+      "puntos_de_interes": [
+        {
+          "indice": 1,
+          "nombre": "Templo Byōdō-in",
+          "descripcion": ""
+        }
+      ]
+    }
+  ]
+}
+
